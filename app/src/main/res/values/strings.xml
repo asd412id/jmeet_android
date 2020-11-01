@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">JMeet App</string>
+    <string name="nav_header_name">Android Studio</string>
+    <string name="nav_header_email">android.studio@android.com</string>
+    <string name="nav_header_phone">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_new">Buat Pertemuan</string>
+
+    <string name="menu_meets">Daftar Pertemuan</string>
+    <string name="menu_meet_end">Pertemuan Selesai</string>
+    <string name="menu_logout">Keluar</string>
+    <string name="copyright">by asd412id</string>
+    <string name="daftar">DAFTAR AKUN</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Alamat Email</string>
+    <string name="telp">Nomor Telepon</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Konfirmasi Password</string>
+    <string name="daftar_akun">DAFTAR AKUN</string>
+    <string name="memproses_data">Memproses Data</string>
+    <string name="login">LOGIN</string>
+    <string name="email_atau_nomor_telepon">Email atau Nomor Telepon</string>
+    <string name="kode_meeting">KODE PERTEMUAN</string>
+    <string name="ikuti_rapat">IKUTI</string>
+    <string name="cancel">BATAL</string>
+    <string name="nama_pertemuan">Nama Pertemuan</string>
+    <string name="waktu_mulai">Waktu Mulai</string>
+    <string name="waktu_selesai">Waktu Selesai</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="activate">Aktifkan</string>
+    <string name="edit_pertemuan">Ubah Pertemuan</string>
+    <string name="hapus">Hapus</string>
+    <string name="status">Status</string>
+    <string name="kirim">KIRIM</string>
+</resources>
