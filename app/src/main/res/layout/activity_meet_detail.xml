@@ -162,7 +162,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textSize="17sp"
-                        android:text="Selesai TTD\t\t\t\t\t\t\t\t\t\t:\t"/>
+                        android:text="Selesai TTD\t\t\t\t\t\t\t\t\t:\t"/>
                     <TextView
                         android:id="@+id/signout"
                         android:layout_width="wrap_content"
